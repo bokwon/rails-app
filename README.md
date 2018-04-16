@@ -1,1 +1,1 @@
-# rails-app
+# rails-apps
